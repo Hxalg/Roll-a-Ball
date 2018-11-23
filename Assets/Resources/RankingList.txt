@@ -1,0 +1,10 @@
+{"name":"Admin","score":10738}
+{"name":"Admin","score":10971}
+{"name":"Admin","score":11155}
+{"name":"Admin","score":11322}
+{"name":"Admin","score":11740}
+{"name":"Admin","score":12992}
+{"name":"Admin","score":13543}
+{"name":"Admin","score":13576}
+{"name":"Admin","score":13760}
+{"name":"Admin","score":14144}
